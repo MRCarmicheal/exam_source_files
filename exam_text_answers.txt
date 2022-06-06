@@ -1,0 +1,36 @@
+This is a text file for your text-only (no code) answers.
+
+# 1.
+TypeError: '<' not supported between instances of 'MyValue' and 'MyValue'
+The same element must have different names for comparison
+
+# 2.
+TypeError: 'tuple' object does not support item assignment
+ans:python does not allow you to modify any element in a tuple( line2)
+
+# 3. commit message
+Code before commit: The way to calculate BMI here is to first create a function and directly call the input height and weight to calculate the BMI value
+Code after commit: The way to calculate BMI here is to first create two functions, one for writing the BMI function calculation formula, and the other for calling the BMI function formula, bringing in the height and width for calculation.
+
+# 4. "private jet"
+a.private jet.py
+b.Private Jet
+c.stealth_capability
+d.is_jet_vertically
+
+
+# 5. type choices
+a. float explain: user's weight is floating point
+b. int explain: temeperature is an integer
+c. dict explain: can store color names
+d. bool explain: on and off mean True and False
+e. str  explain: students address is string type
+
+
+6.
+a. is unrelated to
+b. is a child of
+c.  is composed of
+d.  is an unrelated to
+e.  is an instance of
+f. is a child of
